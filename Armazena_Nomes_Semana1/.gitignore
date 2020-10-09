@@ -2,3 +2,8 @@
 .vscode
 .DS_Store
 main
+../.DS_Store
+../.vscode/
+main.dSYM/
+tempCodeRunnerFile.c
+
