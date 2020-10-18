@@ -86,9 +86,12 @@ void apagar(){
                 contatos++;
                 variaveis->i++;
             }
-            variaveis->apagados++;
+            variaveis->apagados++; //Acumula quantos nomes foram apagados - Para realocar a memória
+            variaveis->i = 0; //Previne que um nome repetido não seja apagado
+            contatos = pBuffer + sizeof(general);
+        }else{
+            contatos++;
         }
-        contatos++;
     }
     variaveis->contador = variaveis->contador - variaveis->apagados;
     pBuffer = realloc(pBuffer,sizeof(general)+sizeof(agenda)*variaveis->contador);
