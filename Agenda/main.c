@@ -64,7 +64,7 @@ void incluir (){
     variaveis->contador += 1;
     pBuffer = realloc(pBuffer,sizeof(general)+sizeof(agenda)*variaveis->contador);
     variaveis = pBuffer;
-    contatos = pBuffer + sizeof(general)+sizeof(agenda)*variaveis->contador - sizeof(agenda); //perguntar pq não funciona o sizeof do pbuffer
+    contatos = pBuffer + sizeof(general)+sizeof(agenda)*variaveis->contador - sizeof(agenda); 
     printf ("\nNome: ");
     scanf ("%s", contatos->name);
     printf("\nTelefone: ");

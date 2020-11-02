@@ -1,0 +1,13 @@
+t	j	p	    g
+
+0	1	NULL	NULL
+5	1	NULL	NULL
+5	1	&t	    NULL
+5	3	&t	    NULL
+5	3	&t	    &j
+16	3	&t	    &j
+16	4	&t	    &j
+16	0	&t	    &j
+16	1	&t	    &j
+16	2	&t	    &j
+20	2	&t	    &j
