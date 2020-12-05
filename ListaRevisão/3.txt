@@ -1,0 +1,4 @@
+a) p igual ao endereço de i;
+b) i - j;
+c) i;
+d) 3 multiplicado por i/(j) + 7.

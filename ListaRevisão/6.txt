@@ -1,0 +1,4 @@
+a) Válida;
+b) Inválida;
+c) Inválida;
+d) Válida.

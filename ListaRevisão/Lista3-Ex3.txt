@@ -1,0 +1,5 @@
+a) p igual ao endereço de i;
+	Considerando que o endereço de i seja 10000, p = 10000.
+b) i - j = -2;
+c) i = 3;
+d) 3 multiplicado por -(i/(j)) + 7 = 5,2.

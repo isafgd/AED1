@@ -1,0 +1,2 @@
+a) Essa função recebe o n e retorna o quadrado dele.
+b) j = 100;

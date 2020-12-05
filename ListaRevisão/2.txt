@@ -1,0 +1,2 @@
+Ambos os códigos exibem o mesmo resultado, porém no primeiro código a matriz é printada de acordo com a posição, enquanto no segundo código
+é printada usando um ponteiro que recebe a primeira posição da matriz.
