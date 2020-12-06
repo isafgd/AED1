@@ -1,0 +1,2 @@
+Na inserção não é possível, apenas uma operação de rotação já é suficiente para balancear a árvore.
+Já na remoção, pode haver até log(n) operarações de rotação para rebalancear a árvore.
